@@ -1,4 +1,4 @@
-var SERVER_URL = 'http://35.163.252.239:3000;
+var SERVER_URL = 'http://35.163.252.239:3000';
 
 if (!sessionStorage) {
   alert(
